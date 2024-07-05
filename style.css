@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+div{
+    text-transform: capitalize;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    margin: 15px 20px 0 20px;
+    border-radius: 7px;
+    color: brown;
+}
+#demo {
+ color: white;
+ padding: 40px 50px 0 4px ;
+border-bottom: 2px coral;
+background-color: black;
+border-color: brown;
+text-align: left;
+}
+
+#demo2{
+    padding: 30px 50px 0 2px;
+    background-color: black;
+border-color: brown;
+text-align: left;
+color: white;
+}
+hr{
+    margin: 3px 25px 0 4px;
+    border-color: brown;
+}
+
+#demo4{
+    text-align: center;
+    background-color: brown;
+    margin: 25px 20px 20px 20px;
+    border-radius: 7px;
+    color: black
+}
+ 
+
+#demo3{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 17px ;
+}
+
+#demo5{
+    text-align: center;
+    color: aliceblue;
+}
+
+h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+#demo6{
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
