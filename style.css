@@ -25,14 +25,14 @@ h1{
 border-bottom: 2px coral;
 background-color: black;
 border-color: brown;
-text-align: left;
+text-align: center;
 }
 
 #demo2{
     padding: 30px 50px 0 2px;
     background-color: black;
 border-color: brown;
-text-align: left;
+text-align: center;
 color: white;
 }
 hr{
