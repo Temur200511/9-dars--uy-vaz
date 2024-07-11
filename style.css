@@ -22,10 +22,13 @@ h1{
 #demo {
  color: white;
  padding: 40px 50px 0 4px ;
-border-bottom: 2px coral;
-background-color: black;
-border-color: brown;
-text-align: center;
+ border-bottom: 2px coral;
+ background-color: black;
+ border-color: brown;
+ text-align: center;
+ border-left: 0;
+ border-right: 0;
+ border-top: 0;
 }
 
 #demo2{
@@ -34,6 +37,10 @@ text-align: center;
 border-color: brown;
 text-align: center;
 color: white;
+border-left: 0;
+ border-right: 0;
+ border-top: 0;
+ border-bottom: 0;
 }
 hr{
     margin: 3px 25px 0 4px;
@@ -43,9 +50,13 @@ hr{
 #demo4{
     text-align: center;
     background-color: brown;
-    margin: 25px 20px 20px 20px;
+    margin: 25px 20px 20px 530px;
     border-radius: 7px;
-    color: black
+    color: black;
+    border: 1px solid brown;
+    padding: 6px 55px 6px 55px ;
+
+
 }
  
 
@@ -69,4 +80,12 @@ h3{
     text-align: center;
     color: aliceblue;
     font-size: xx-large;
+}
+form{
+    text-align: center;
+    color: aliceblue;
+}
+
+input{
+    outline: none;
 }
